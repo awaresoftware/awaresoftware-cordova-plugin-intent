@@ -1,4 +1,4 @@
-*Please be aware that this application / sample is provided as-is for demonstration purposes without any guarantee of support*
+*THIS IS A FORK OF DARRYNCAMPBELL-CORDOVA-PLUGIN-INTENT REMOVING REQUEST_INSTALL_PACKAGES PERMISSION*
 =========================================================
 
 [![npm version](http://img.shields.io/npm/v/com-darryncampbell-cordova-plugin-intent.svg?style=flat-square)](https://npmjs.org/package/com-darryncampbell-cordova-plugin-intent "View this project on npm")
